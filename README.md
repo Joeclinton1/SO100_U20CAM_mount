@@ -10,7 +10,7 @@ Open Source Camera Mount for So100 Robot arm and U20CAM camera
 **Note:** Camera angle is 30 deg, which is the result of testing multiple different angles. Camera angle can be changed in the fusion file, by modifying the rotation that happens in step Move4.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/01a0d2aa-ef1c-4dd5-b0a5-b5fd81e8e63d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/f32f0dda-85df-4eab-9186-76035641d54c" width="500"/>
 </p>
 
 
