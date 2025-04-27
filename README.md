@@ -1,7 +1,7 @@
 # SO100_U20CAM_mount
 Open Source Camera Mount for So100 Robot arm and U20CAM camera
 
-### Purchase Links for InnoMaker 720P USB2.0 UVC Camera
+### Purchase Links for InnoMaker U20CAM
 
 - **UK**: [Amazon.co.uk](https://www.amazon.co.uk/innomaker-Computer-Raspberry-Support-Windows/dp/B0CLRJZG8D)
 - **EU**: [Amazon.de](https://www.amazon.de/innomaker-Computer-Raspberry-Support-Windows/dp/B0CLRJZG8D)
